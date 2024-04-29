@@ -1,4 +1,4 @@
-name: OIDC Continuous Deployment
+name: OIDC Continuous Deployment just demoo
 
 # This workflow is triggered whenever commits are pushed to the main branch
 on:
